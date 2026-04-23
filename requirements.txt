@@ -1,0 +1,17 @@
+# requirements.txt
+
+numpy
+pandas
+matplotlib
+h5py
+scikit-learn
+joblib
+tensorflow
+keras
+opencv-python
+openpyxl
+jupyter
+notebook
+ipykernel
+scipy
+tqdm
