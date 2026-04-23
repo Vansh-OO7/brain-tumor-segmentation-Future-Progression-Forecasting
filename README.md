@@ -56,6 +56,9 @@ AI-powered healthcare project that performs **brain tumor segmentation** from mu
 
 ---
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/cd8c52b0-16d9-4639-9cc4-8a7c51256071" />
+
+
 ##  Tech Stack
 
 - Python
@@ -79,3 +82,11 @@ brain-tumor-segmentation-future-growth-prediction/
 ├── src/
 ├── uploads/
 └── outputs/
+
+git clone <your-repo-link>
+cd brain-tumor-segmentation-future-growth-prediction
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+
+⚠️ Disclaimer
+This project is built for academic / research purposes only and is not intended for real clinical diagnosis.
