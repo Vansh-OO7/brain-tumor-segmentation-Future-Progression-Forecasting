@@ -1,0 +1,10 @@
+===== FINAL RESULT =====
+segmented_image_path: outputs/Sample_output_1/Sample_segemented_and_prediction.png
+current_area_cm2: 23.16
+short_term_cm2: 24.89
+mid_term_cm2: 27.25
+long_term_cm2: 29.97
+growth_short_term_percent: 7.47
+growth_mid_term_percent: 17.66
+growth_long_term_percent: 29.4
+progression_status: Moderate Progressive Trend

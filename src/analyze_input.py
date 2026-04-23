@@ -17,7 +17,7 @@ IMG_SIZE = 128
 ORIG_SIZE = 240
 THRESHOLD = 0.3
 
-OUTPUT_IMAGE = "outputs/segmented_result.png"
+OUTPUT_IMAGE = "outputs/Sample_output_1/Sample_segemented_and_prediction.png"
 
 # ==================================================
 # CUSTOM OBJECTS
