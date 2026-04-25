@@ -5,7 +5,7 @@ matplotlib
 h5py
 scikit-learn
 joblib
-tensorflow
+tensorflow-cpu==2.15.1
 opencv-python-headless
 pillow
-sci
+scipy
