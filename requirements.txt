@@ -8,4 +8,4 @@ joblib
 tensorflow
 opencv-python-headless
 pillow
-scipy
+sci
