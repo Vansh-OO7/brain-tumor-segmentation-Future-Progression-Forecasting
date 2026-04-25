@@ -1,5 +1,4 @@
-# requirements.txt
-
+streamlit
 numpy
 pandas
 matplotlib
@@ -7,11 +6,6 @@ h5py
 scikit-learn
 joblib
 tensorflow
-keras
-opencv-python
-openpyxl
-jupyter
-notebook
-ipykernel
+opencv-python-headless
+pillow
 scipy
-tqdm

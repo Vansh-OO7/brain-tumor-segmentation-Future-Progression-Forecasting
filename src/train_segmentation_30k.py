@@ -15,7 +15,7 @@ VAL_CSV   = "Datasets/val_30k.csv"
 MODEL_PATH = "models/segmentation_model_30k.h5"
 
 IMG_SIZE = 128
-BATCH_SIZE = 8
+BATCH_SIZE = 16
 EPOCHS = 12
 LEARNING_RATE = 1e-3
 WEIGHT_DECAY = 1e-5

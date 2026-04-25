@@ -166,3 +166,6 @@ print("Val tumor  :", int(np.sum(val_labels == 1)),
 
 print("Test tumor :", int(np.sum(test_labels == 1)),
       "| non-tumor:", int(np.sum(test_labels == 0)))
+
+
+print("val_30k.csv   =", len(val_files))
